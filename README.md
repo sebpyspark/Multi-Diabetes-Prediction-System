@@ -2,14 +2,11 @@
 AI-powered diabetes prediction platform capable of predicting 13 different types of diabetes using TensorFlow, Scikit-learn, ipywidgets, HTML, and CSS.
 # Multi Diabetes Prediction System
 
-<a href="https://colab.research.google.com/github/sebpyspark/Multi-Diabetes-Prediction-System/blob/main/Diabetes_Prediction.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/sebpyspark/Multi-Diabetes-Prediction-System/blob/main/Diabetes_Prediction_GITHUB.ipynb" target="_parent">
   
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## program link
-
-[Program Share Link](https://colab.research.google.com/drive/14xhHsawlLQDT43HEMej3LVucDGr3zVnN?usp=sharing)
 
 ## Dataset
 
