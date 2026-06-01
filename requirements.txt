@@ -1,1 +1,4 @@
 COLAB FREE TIER
+IPython - GUI
+ipywidgets - GUI
+HTML CSS JAVASCRIPT - GUI
