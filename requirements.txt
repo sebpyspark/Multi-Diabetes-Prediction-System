@@ -2,15 +2,14 @@ COLAB FREE TIER
 IPython - GUI
 ipywidgets - GUI
 HTML CSS JAVASCRIPT - GUI
-CV2
-TENSORFLOW
+TENSORFLOW - model build
 NUMPY
-matplotlib
-seaborn
-pandas
+matplotlib - creating graph
+seaborn - creating graph
+pandas - dataframe creation
 sklearn.preprocessing import LabelEncoder, OneHotEncoder
 scipy.stats import f_oneway # Used for Co-relation
-imblearn.over_sampling
+imblearn.over_sampling - handle class imbalance
 flask - For Web App
 PyNgrok - For Web App
 
