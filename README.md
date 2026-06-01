@@ -1,4 +1,6 @@
+
 # Post Graduate Level Project
+With full Documentation, PPT, DFD's
 # Multi-Diabetes-Prediction-System - 13 Types
 AI-powered diabetes prediction platform capable of predicting 13 different types of diabetes using TensorFlow, Scikit-learn, ipywidgets, HTML, and CSS.
 
@@ -21,3 +23,6 @@ How to Execute this project-Follow the steps below
 
 [Download Dataset](https://drive.google.com/file/d/1Go2TTA0PDrRGQhpTwRMhGCflZX04moZH/view?usp=sharing)
 
+## Author 
+Sebastian M N., MCA,MSC[DS&AI], 
+sebmca@gmail.com
