@@ -4,7 +4,7 @@ AI-powered diabetes prediction platform capable of predicting 13 different types
 
 <a href="https://colab.research.google.com/github/sebpyspark/Multi-Diabetes-Prediction-System/blob/main/Diabetes_Prediction_GITHUB.ipynb" target="_parent">
   
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open & Run In Colab"/>
 </a>
 
 
@@ -12,6 +12,3 @@ AI-powered diabetes prediction platform capable of predicting 13 different types
 
 [Download Dataset](https://drive.google.com/file/d/1Go2TTA0PDrRGQhpTwRMhGCflZX04moZH/view?usp=sharing)
 
-## download image
-
-[Download Image](https://drive.google.com/file/d/1--7FUtN7K2uxidOjG03GE3XRhf4QdQuK/view?usp=sharing)
