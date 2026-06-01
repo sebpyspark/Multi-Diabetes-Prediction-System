@@ -24,9 +24,9 @@ How to Execute this project-Follow the steps below
 [Download Dataset](https://drive.google.com/file/d/1Go2TTA0PDrRGQhpTwRMhGCflZX04moZH/view?usp=sharing)
 
 ## Author 
-Sebastian M N., MCA,MSC[DS&AI] 
-Data Scientist/Asst. Professor
-Total Experience : 30 Years
-sebmca@gmail.com
+Sebastian M N., MCA,MSC[DS&AI] <br>
+Data Scientist/Asst. Professor<br>
+Total Experience : 30 Years<br>
+sebmca@gmail.com<br>
 Mob: 9746824083 [india]
 
