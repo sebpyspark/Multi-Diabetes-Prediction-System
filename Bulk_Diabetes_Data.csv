@@ -1,0 +1,16 @@
+Genetic_Markers,Autoantibodies,Family_History,Environmental_Factors,Insulin_Levels,Age,BMI,Physical_Activity,Dietary_Habits,Blood_Pressure,Cholesterol_Levels,Waist_Circumference,Blood_Glucose_Levels,Ethnicity,Socioeconomic_Factors,Smoking_Status,Alcohol_Consumption,Glucose_Tolerance_Test,History_of_PCOS,Previous_Gestational_Diabetes,Pregnancy_History,Weight_Gain_During_Pregnancy,Pancreatic_Health,Pulmonary_Function,Cystic_Fibrosis_Diagnosis,Steroid_Use_History,Genetic_Testing,Neurological_Assessments,Liver_Function_Tests,Digestive_Enzyme_Levels,Urine_Test,Birth_Weight,Early_Onset_Symptoms
+Positive,Negative,No,Present,40,44,38,High,Healthy,124,201,50,168,Low Risk,Medium,Smoker,High,Normal,No,No,Normal,18,36,76,No,No,Positive,3,Normal,56,Ketones Present,2629,No
+Positive,Negative,No,Present,13,1,17,High,Healthy,73,121,24,178,Low Risk,High,Non-Smoker,Moderate,Normal,Yes,No,Normal,8,26,60,Yes,No,Negative,1,Normal,28,Glucose Present,1881,Yes
+Positive,Positive,Yes,Present,27,36,24,High,Unhealthy,121,185,36,105,Low Risk,Medium,Smoker,High,Abnormal,Yes,No,Normal,15,56,80,Yes,No,Negative,1,Abnormal,55,Ketones Present,3622,Yes
+Negative,Positive,No,Present,8,7,16,Low,Unhealthy,100,151,29,121,Low Risk,High,Smoker,Moderate,Abnormal,No,Yes,Normal,12,49,89,Yes,No,Positive,2,Abnormal,60,Ketones Present,3542,No
+Negative,Negative,Yes,Present,17,10,17,High,Healthy,103,146,33,289,Low Risk,Low,Smoker,Moderate,Normal,No,Yes,Complications,2,10,41,No,No,Positive,1,Normal,24,Protein Present,1770,No
+Positive,Negative,Yes,Present,17,41,26,Moderate,Healthy,127,208,32,142,Low Risk,Low,Non-Smoker,Low,Abnormal,No,No,Normal,11,40,85,Yes,No,Negative,2,Normal,52,Ketones Present,3835,Yes
+Negative,Negative,No,Absent,29,30,31,Moderate,Healthy,115,237,43,186,High Risk,High,Non-Smoker,Low,Normal,No,Yes,Normal,15,62,64,Yes,Yes,Negative,3,Abnormal,96,Ketones Present,4426,No
+Positive,Negative,No,Absent,10,3,18,Low,Unhealthy,80,157,29,206,High Risk,Low,Smoker,Low,Normal,Yes,Yes,Normal,4,13,44,Yes,No,Negative,1,Normal,29,Ketones Present,1644,Yes
+Negative,Positive,No,Absent,47,47,25,High,Healthy,138,185,40,160,Low Risk,High,Smoker,Low,Normal,No,No,Complications,30,91,71,No,Yes,Positive,3,Normal,74,Ketones Present,3721,No
+Positive,Positive,Yes,Absent,9,3,22,Low,Healthy,100,173,26,219,High Risk,Medium,Non-Smoker,Moderate,Normal,Yes,Yes,Normal,1,20,41,Yes,Yes,Negative,1,Normal,18,Normal,2954,Yes
+Negative,Positive,No,Absent,16,9,23,Low,Healthy,105,141,26,201,Low Risk,High,Non-Smoker,Low,Abnormal,No,No,Complications,0,27,48,Yes,No,Negative,2,Normal,19,Glucose Present,2760,No
+Negative,Positive,No,Absent,15,28,16,High,Unhealthy,103,168,30,148,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Complications,15,32,82,Yes,No,Positive,2,Abnormal,50,Protein Present,2798,No
+Positive,Negative,No,Present,23,26,27,Low,Unhealthy,104,152,33,93,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,14,60,74,Yes,No,Negative,2,Normal,55,Ketones Present,3985,No
+Positive,Negative,Yes,Absent,17,2,16,High,Unhealthy,89,138,25,208,Low Risk,Medium,Smoker,Low,Abnormal,No,No,Normal,0,25,60,No,No,Negative,1,Normal,22,Ketones Present,2578,Yes
+Negative,Negative,No,Absent,27,34,29,Low,Unhealthy,92,160,29,129,Low Risk,High,Smoker,Low,Normal,No,Yes,Normal,14,51,89,No,No,Negative,1,Normal,75,Glucose Present,3740,No
