@@ -11,4 +11,7 @@ pandas
 sklearn.preprocessing import LabelEncoder, OneHotEncoder
 scipy.stats import f_oneway # Used for Co-relation
 imblearn.over_sampling
+flask - For Web App
+PyNgrok - For Web App
+
 
