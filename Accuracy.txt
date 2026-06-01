@@ -1,0 +1,22 @@
+Other Accuracy Metrics Details.....
+
+                                           precision    recall  f1-score   support
+
+                 Steroid_Induced_Diabetes       0.81      0.65      0.72      1048
+           Neonatal_Diabetes_Mellitus_NDM       1.00      1.00      1.00      1018
+                              Prediabetic       0.90      0.98      0.94      1089
+                          Type_1_Diabetes       0.84      0.93      0.88      1123
+                         Wolfram_Syndrome       0.79      0.97      0.87      1051
+                                     LADA       0.84      0.94      0.89      1072
+                          Type_2_Diabetes       0.72      0.84      0.78      1083
+                Wolcott_Rallison_Syndrome       0.90      0.85      0.87      1063
+                       Secondary_Diabetes       0.67      0.78      0.72      1053
+ Type_3c_Diabetes_Pancreatogenic_Diabetes       0.69      0.97      0.80      1064
+                     Gestational_Diabetes       0.85      0.82      0.84      1072
+    Cystic_Fibrosis_Related_Diabetes_CFRD       0.87      0.88      0.87      1070
+                                     MODY       0.75      0.94      0.83      1194
+
+                                micro avg       0.81      0.89      0.85     14000
+                                macro avg       0.82      0.89      0.85     14000
+                             weighted avg       0.82      0.89      0.85     14000
+                              samples avg       0.85      0.89      0.86     14000
